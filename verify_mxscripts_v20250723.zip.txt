@@ -1,0 +1,17 @@
+MxScripts Release Hash Verification Instructions
+
+Archive: mxscripts_v20250723.zip
+SHA-256: 4d109c268f368665fb4468f14ec6674eab12e6f120fe60e5f32dd878ecdff234
+
+To verify the integrity of your download:
+
+Linux/macOS:
+    shasum -a 256 mxscripts_v20250723.zip
+
+Windows (PowerShell):
+    Get-FileHash -Algorithm SHA256 mxscripts_v20250723.zip
+
+The hash should match: 4d109c268f368665fb4468f14ec6674eab12e6f120fe60e5f32dd878ecdff234
+
+If the hash doesn't match, the file may be corrupted or tampered with.
+Please download again or contact support.

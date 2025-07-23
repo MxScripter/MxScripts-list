@@ -1,4 +1,4 @@
-# MxScripts-list
+# MxScripts
 
 🔥 **[Get (Free) MxScripts](https://mxscripter.gumroad.com/l/MxScripts)** – A growing collection of ultra-compact, high-value utility scripts on Gumroad!
 
